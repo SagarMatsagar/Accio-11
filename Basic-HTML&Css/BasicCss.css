@@ -1,0 +1,32 @@
+body{
+    background-color:#9FAD97;
+}
+.part2{
+    text-align: center;
+}
+.part3{
+    text-align: right;
+}
+.part4{
+    color:green;
+}
+.part5{
+    font-family: 'Times New Roman', Times, serif;
+}
+.part6{
+    font-size: 48px;
+    margin-top: 5px;
+    margin-bottom: 22px;
+}
+.part7{
+    color: white;
+    font-size: 10px;
+    font-family: arial;
+}
+.img1{
+    text-align: center;
+    margin-bottom: 17px;
+}
+.img2{
+    text-align: center;
+} 
